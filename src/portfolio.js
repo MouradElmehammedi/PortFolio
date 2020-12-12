@@ -48,7 +48,7 @@ export const skillsData = [
 export const projectsData = [
     {
         img : require("./assets/img/work-portfolio.PNG"),
-        url : "https://github.com/MouradElmehammedi/PortFolio"
+        url : "https://github.com/MouradElmehammedi/MouradElmehammedi.github.io"
     },
     {
         img : require("./assets/img/work-pizza.PNG"),
